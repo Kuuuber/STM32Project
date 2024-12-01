@@ -21,7 +21,7 @@
 #include "spi.h"
 #include "gpio.h"
 #include "MY_LIS3DSH.h"
-
+#include "uart5.h"
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
